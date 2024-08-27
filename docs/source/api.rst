@@ -1,7 +1,11 @@
+.. _api:
 API
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+Matcher Class
+-------------
+.. autoclass:: whereabouts.Matcher.Matcher
+   :inherited-members:
